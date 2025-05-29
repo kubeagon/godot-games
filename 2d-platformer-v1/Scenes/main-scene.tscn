@@ -7,4 +7,3 @@
 [node name="Player" parent="." instance=ExtResource("1_ejkqi")]
 position = Vector2(113, 90)
 speed = 600
-gravity = 200
